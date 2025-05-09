@@ -1,4 +1,7 @@
-Análise de projetos web.
-Aula de APW com o professor Bruno Zolotareff
+# 📚 Análise de projetos web.
 
-Aula 01 - Apresentação de bases tecnológicas.
+
+Aula de APW com o professor **Bruno Zolotareff**.
+
+## 📝 Conteúdo
+- Aula 01 - Apresentação de bases tecnológicas.
